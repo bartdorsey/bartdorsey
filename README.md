@@ -1,1 +1,1 @@
-I teach Javascript and Python to future coders.
+I teach Javascript to future coders.
